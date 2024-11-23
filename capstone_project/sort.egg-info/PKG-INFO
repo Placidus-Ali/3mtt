@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: sort
+Version: 1.0
+Summary: Simple Online and Realtime Tracking (SORT)
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: filterpy
