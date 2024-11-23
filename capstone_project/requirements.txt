@@ -5,17 +5,9 @@ scikit-image
 numpy
 pandas
 streamlit
-import cv2
-import requests
-import numpy as np
-import pandas
-import torchvision
-from filterpy.kalman import KalmanFilter
-from sort import Sort
-import torch
-import streamlit as st
-import cv2
-import numpy as np
-import tempfile
-from sort import Sort
-import torch
+cv2
+requests
+torchvision
+sort
+torch
+tempfile
