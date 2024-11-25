@@ -1,8 +1,7 @@
-filterpy==1.4.5
-scikit-image==0.17.2
+numpy==<appropriate_version>
 lap==0.4.0
-scikit-image
-numpy
+scikit-image==0.17.2
+filterpy==1.4.5
 pandas
 streamlit
 cv2
